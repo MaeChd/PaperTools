@@ -6,7 +6,7 @@ This tool is designed for researchers and data analysts to efficiently fetch aca
 
 - [English](#features)
 - [中文](README_cn.md)
-- 
+
 ## Features
 
 - **Paper Scraping**: Fetch papers from arXiv based on user-defined keywords and date ranges.
