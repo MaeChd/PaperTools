@@ -1,3 +1,13 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+@file: paper_download.py
+@description: 从抓取的论文csv文件中批量打包下载论文
+@date: 2024-12-3
+@author: Sokachii
+@version: 1.0
+"""
+
 import pandas as pd
 import requests
 from bs4 import BeautifulSoup
