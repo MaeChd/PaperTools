@@ -2,6 +2,11 @@
 
 This tool is designed for researchers and data analysts to efficiently fetch academic papers from **arXiv** and perform text analysis on the collected data. It includes features like keyword extraction, TF-IDF calculation, LDA topic modeling, and word cloud generation.
 
+## 🌍 Language Options
+
+- [English](#features)
+- [中文](README_cn.md)
+- 
 ## Features
 
 - **Paper Scraping**: Fetch papers from arXiv based on user-defined keywords and date ranges.
